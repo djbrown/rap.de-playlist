@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+client_secret.json
+database.sqlite3
+secrets.py
